@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderselin
-- 👀 I'm interested in Frontend Development 
+- 👀 I'm interested in Fullstack Devlopment
 - 🌱 I'm currently learning HTML5 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me selinkoksal28@gmail.com
